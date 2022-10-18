@@ -1,0 +1,30 @@
+
+body {
+    
+    background-color: rgb(118, 83, 153)
+    
+}
+
+.meuNome {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+em {
+    color: white;
+}
+
+.persistencia {
+    font-size: 60px;
+}
+
+.criatividade {
+    font-size: 50px;
+}   
+
+.resiliencia {
+    font-size: 40px;
+}
+
+.adaptabilidade {
+    font-size: 30px;
+}
